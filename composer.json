@@ -1,0 +1,22 @@
+{
+    "name": "pycode-biz/yii2-database-menu",
+    "description": "Menu from database for Yii2 Framework",
+    "type": "yii2-module",
+    "keywords": ["yii2","module","pycode-biz", "database", "menu"],
+    "authors": [
+        {
+            "name": "Paweł Srebniak",
+            "email": "info@pycode.biz"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*",
+        "yiisoft/yii2-bootstrap": "*",
+    },
+    "autoload": {
+        "psr-4": {
+            "dmstr\\": ""
+        }
+    }
+}
+
